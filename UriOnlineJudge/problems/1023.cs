@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace URIOnlineJudge
+namespace UriOnlineJudge
 {
     class _1023 : IRun
     {

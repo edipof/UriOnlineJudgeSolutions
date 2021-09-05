@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace URIOnlineJudge
+namespace UriOnlineJudge
 {
     public class _2515 : IRun
     {

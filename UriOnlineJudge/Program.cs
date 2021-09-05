@@ -1,12 +1,10 @@
-﻿using System;
-
-namespace URIOnlineJudge
+﻿namespace UriOnlineJudge
 {
     class Program
     {
         static void Main(string[] args)
         {
-            new _1023().Run();
+            new _1237().Run();
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿namespace URIOnlineJudge
+﻿namespace UriOnlineJudge
 {
     interface IRun
     {
